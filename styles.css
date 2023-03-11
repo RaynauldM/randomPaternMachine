@@ -1,0 +1,15 @@
+header {
+  text-align: center;
+}
+
+.container {
+  width: 32vw;
+}
+
+.outputDisplay {
+  text-align: center;
+}
+
+#outputContainer {
+  display: flex;
+}
